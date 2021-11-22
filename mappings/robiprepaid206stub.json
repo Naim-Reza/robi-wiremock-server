@@ -1,0 +1,13 @@
+{
+  "request": {
+    "urlPath": "/robi/prepaid/206",
+    "method": "POST"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "robi_prepaid_206_response.xml",
+    "headers": {
+      "Content-Type": "application/xml"
+    }
+  }
+}

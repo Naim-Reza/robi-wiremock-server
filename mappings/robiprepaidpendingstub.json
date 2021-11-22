@@ -1,0 +1,13 @@
+{
+  "request": {
+    "urlPath": "/robi/prepaid/pending",
+    "method": "POST"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "robi_prepaid_pending_response.xml",
+    "headers": {
+      "Content-Type": "application/xml"
+    }
+  }
+}
