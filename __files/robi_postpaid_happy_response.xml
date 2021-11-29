@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<command>
+  <date>2021-11-18T17:56:25.733+06:00</date>
+  <extrefnum>extref</extrefnum>
+  <message>message</message>
+  <txnid>e35c13d1-00b3-4c5f-9178-2cba53285a1a</txnid>
+  <txnstatus>200</txnstatus>
+  <reqstatus>200</reqstatus>
+  <type>exppbres</type>
+</command>
